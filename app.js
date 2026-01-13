@@ -28,6 +28,8 @@ function App() {
             AuthService.logout();
             setUser(null);
             setShowDashboard(false);
+            localStorage.removeItem('jecMemberAuth');
+            window.location.reload();
         };
 
         const handleLoginSuccess = (userData) => {
