@@ -51,7 +51,7 @@ function Header({ onStartExperience, onLearnMore, onServices, onLogin, user, onL
                                         }
                                     }}
                                     className="bg-white text-purple-600 px-6 py-2 rounded-full font-medium hover:bg-purple-50 transition-colors">
-                                        Find your rhythm
+                                        Rebuild your confidence
                                 </button>
                                 <button 
                                     onClick={onLogout}

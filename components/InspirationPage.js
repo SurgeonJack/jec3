@@ -106,7 +106,7 @@ function InspirationPage({ isOpen, onClose }) {
                             </div>
                                 <p className="text-gray-700 mb-6 leading-relaxed">{selectedScene.description}</p>
                                 <div className="bg-gray-50 rounded-lg p-4 mb-6">
-                                    <p className="text-gray-700 mb-4">To learn more about JEC flow services, scan the WeChat Enterprise QR code to join the SURGEON JACK Master Rhythm Camp Global Ecological Cooperation Program.</p>
+                                    <p className="text-gray-700 mb-4">To learn more about JEC flow services, scan the WeChat Enterprise QR code to join the SURGEON JACK Meaning of Life Training Camp Global Ecological Cooperation Program.</p>
                                 <div className="flex flex-col items-center">
                                     <img 
                                         src="https://app.trickle.so/storage/public/images/usr_0ead469e10000001/ac9ec6a8-dbf8-4676-b901-cfb74cb43ca8.jpeg" 

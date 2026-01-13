@@ -40,7 +40,7 @@ function BenefitsList({ onBenefitClick }) {
                     <div className="text-center mb-8">
                         <div className="mb-12">
                             <h1 className="surgeon-jack-title mb-4 gradient-text">
-                                Meaning = Market
+                                Accessibility（future）≠ ∅
                             </h1>
                             <div className="text-center mb-8 px-4">
                                 <div className="max-w-4xl mx-auto space-y-3">
@@ -51,7 +51,7 @@ function BenefitsList({ onBenefitClick }) {
                                         <span className="font-semibold">In the information age:</span> Value = Scarcity of attention
                                     </p>
                                     <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-                                        <span className="font-semibold">In the post-information age:</span> Value = The non-homogeneous assets that give meaning to your life
+                                        <span className="font-semibold">In the AI-accelerated era:</span> Value = Accessibility density
                                     </p>
                                 </div>
                             </div>
@@ -63,7 +63,7 @@ function BenefitsList({ onBenefitClick }) {
                                     WebkitTextFillColor: 'transparent',
                                     backgroundClip: 'text'
                                 }}>
-                                    Begin your first rhythm test for the meaning of life.
+                                    Get your first life meaning test for free.
                                 </p>
                                 <a 
                                     href="https://www.aiaging001.com" 
@@ -72,13 +72,23 @@ function BenefitsList({ onBenefitClick }) {
                                     className="inline-block bg-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:bg-purple-700 transition-colors mb-4">
                                     🧠 Start Your EMR Rhythm Test
                                 </a>
-                                <p className="text-xl text-gray-800 mb-3">
-                                    🌊 Meaning flows where rhythm aligns.
+                                <p className="text-3xl mb-3 font-bold" style={{
+                                    background: 'linear-gradient(90deg, #dc2626 0%, #f59e0b 50%, #8b5cf6 100%)',
+                                    WebkitBackgroundClip: 'text',
+                                    WebkitTextFillColor: 'transparent',
+                                    backgroundClip: 'text'
+                                }}>
+                                    🌊 Rhythm flows where Accessibility aligns.
                                 </p>
-                                <p className="text-base text-gray-600 mb-2">
+                                <p className="text-base text-gray-600 mb-4">
                                     EMR (Emotional Metabolic Rate) = the metabolic efficiency of your emotional system.
                                 </p>
-                                <p className="text-base text-gray-700 font-medium">
+                                <p className="text-2xl font-bold mt-4" style={{
+                                    background: 'linear-gradient(90deg, #dc2626 0%, #f59e0b 50%, #8b5cf6 100%)',
+                                    WebkitBackgroundClip: 'text',
+                                    WebkitTextFillColor: 'transparent',
+                                    backgroundClip: 'text'
+                                }}>
                                     EMR redefines how you interact with the world.
                                 </p>
                             </div>
@@ -96,7 +106,7 @@ function BenefitsList({ onBenefitClick }) {
                                     WebkitBackgroundClip: 'text',
                                     WebkitTextFillColor: 'transparent',
                                     backgroundClip: 'text'
-                                }}>Master Rhythm Camp</span>
+                                }}>Accessibility of Life Training Camp</span>
                                 <span className="block text-yellow-600 ml-12">Global Ecological Cooperation Program</span>
                             </div>
                             <div className="mt-6 mb-8 bg-gradient-to-r from-red-500 to-yellow-500 text-white px-6 py-3 rounded-full inline-block font-bold text-lg shadow-lg ml-8">
@@ -121,7 +131,7 @@ function BenefitsList({ onBenefitClick }) {
                     </div>
                     
                     <h2 className="text-4xl md:text-5xl font-bold text-center mb-4 gradient-text">
-                        Finding Your Rhythmic Sovereignty
+                        Finding Your Life Accessibility
                     </h2>
                     <h3 className="text-2xl md:text-3xl font-semibold text-center mb-8 text-gray-700">
                         Start the energy flywheel that reinforces your work and life through the four major rhythms

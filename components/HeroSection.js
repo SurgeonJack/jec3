@@ -19,14 +19,14 @@ function HeroSection({ onStartJourney, onLearnMore }) {
                             Rhythm healing
                         </h1>
                         <p className="text-xl text-white mb-8 opacity-90">
-                            Not meditation, not inspirational quotes, not psychological counseling - it is a verification model for predictable training of "physiological-neuro-rhythm".
+                            It is not meditation, not inspirational quotes, and not psychological counseling—it focuses on adapting to world operators, breaking cycles, using brand power to build an individual's future accessibility.
                         </p>
                         
                         <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-6 mb-8">
                             <button 
                                 className="bg-white text-purple-600 px-8 py-4 rounded-full font-semibold text-lg hover:bg-purple-50 transition-all transform hover:scale-105"
                                 onClick={handleFindRhythm}>
-                                Find your rhythm
+                                Rebuild your confidence
                             </button>
                             <button 
                                 className="border-2 border-white text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-white hover:text-purple-600 transition-all"
@@ -37,7 +37,7 @@ function HeroSection({ onStartJourney, onLearnMore }) {
                         
                         <div className="text-right mt-6">
                             <p className="text-white text-sm md:text-base italic opacity-80">
-                                "A surgeon-led mission to bridge biology and meaning."
+                                "A New Psychology Adapted to Musk's Interstellar Civilization"
                             </p>
                             <p className="text-white text-xs md:text-sm font-semibold mt-1 opacity-90">
                                 ——SURGEON JACK
